@@ -222,7 +222,7 @@ BEBI=0
 FYV=0
 GOL=0
 while True:
-    print("""BIENVENIDO AL MINIMARKET LOTTUS
+    print("""BIENVENIDO AL SUPERMERCADO LOTTUS
 |=============================================|
 |                CATALOGO                     |    
 |=============================================|
